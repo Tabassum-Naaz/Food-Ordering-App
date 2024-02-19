@@ -1,2 +1,2 @@
 # Food-Ordering-App
-Responsive webpage of Food ordering app by using HTML.CC and Bootstrap
+Responsive webpage of Food ordering app by using HTML, CCSand Bootstrap
